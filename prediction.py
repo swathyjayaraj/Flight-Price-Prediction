@@ -115,7 +115,7 @@ if page == 'Predict the Price':
         air_inp = 2
 
     #source
-    Source=st.selectbox('Source: The source from which the service begins', ['Delhi','Kolkata','Banglore','Mumbai','Chennai'])
+    Source=st.selectbox('Source: The source from which the service begins', ['Delhi','Kolkata','Bangalore','Mumbai','Chennai'])
     if Source == "Bangalore":
         source_inp = 0
     elif Source == "Chennai":
