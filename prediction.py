@@ -24,7 +24,7 @@ def predict(model, input_df):
 
 #Data = pickle.load(open("model.pkl","rb"))
 
-
+print("success")
 
 
 # navigation bar
