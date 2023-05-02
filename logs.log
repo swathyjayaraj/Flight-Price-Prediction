@@ -15,3 +15,22 @@
 2023-05-02 12:01:03,159:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
 2023-05-02 12:01:14,336:INFO:Initializing load_model()
 2023-05-02 12:01:14,336:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2023-05-03 00:00:52,780:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 00:00:52,781:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 00:00:52,781:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 00:00:52,781:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 00:00:54,660:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-03 00:00:57,959:WARNING:C:\Users\swath\Documents\dissertation\prediction.py:10: DeprecationWarning: `import pandas_profiling` is going to be deprecated by April 1st. Please use `import ydata_profiling` instead.
+  import pandas_profiling as pf
+
+2023-05-03 00:00:57,960:INFO:Initializing load_model()
+2023-05-03 00:00:57,960:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2023-05-03 00:01:18,424:INFO:Initializing load_model()
+2023-05-03 00:01:18,425:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2023-05-03 00:01:21,959:INFO:Initializing load_model()
+2023-05-03 00:01:21,959:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
