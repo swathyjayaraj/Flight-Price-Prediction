@@ -34,3 +34,54 @@
 2023-05-03 00:01:18,425:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
 2023-05-03 00:01:21,959:INFO:Initializing load_model()
 2023-05-03 00:01:21,959:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2023-05-04 11:02:11,873:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 11:02:11,874:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 11:02:11,874:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 11:02:11,874:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 11:02:15,499:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-04 11:02:22,911:WARNING:C:\Users\swath\Documents\dissertation\prediction.py:10: DeprecationWarning: `import pandas_profiling` is going to be deprecated by April 1st. Please use `import ydata_profiling` instead.
+  import pandas_profiling as pf
+
+2023-05-04 11:02:22,912:INFO:Initializing load_model()
+2023-05-04 11:02:22,912:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2023-05-04 11:02:32,759:INFO:Initializing load_model()
+2023-05-04 11:02:32,759:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2023-05-04 11:02:41,498:INFO:Initializing load_model()
+2023-05-04 11:02:41,499:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2023-05-04 11:02:47,032:INFO:Initializing load_model()
+2023-05-04 11:02:47,032:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2023-05-04 11:02:48,379:INFO:Initializing load_model()
+2023-05-04 11:02:48,380:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2023-05-04 11:02:48,598:WARNING:C:\Users\swath\Documents\dissertation\myenv\lib\site-packages\sklearn\base.py:439: UserWarning: X does not have valid feature names, but RandomForestRegressor was fitted with feature names
+  warnings.warn(
+
+2023-05-04 11:02:53,977:INFO:Initializing load_model()
+2023-05-04 11:02:53,977:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2023-05-04 11:02:55,928:INFO:Initializing load_model()
+2023-05-04 11:02:55,929:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2023-05-04 11:02:56,170:WARNING:C:\Users\swath\Documents\dissertation\myenv\lib\site-packages\sklearn\base.py:439: UserWarning: X does not have valid feature names, but RandomForestRegressor was fitted with feature names
+  warnings.warn(
+
+2023-05-04 11:18:34,609:INFO:Initializing load_model()
+2023-05-04 11:18:34,609:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2023-05-04 11:41:40,603:INFO:Initializing load_model()
+2023-05-04 11:41:40,607:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2023-05-04 11:45:26,366:INFO:Initializing load_model()
+2023-05-04 11:45:26,367:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2023-05-04 11:45:34,104:INFO:Initializing load_model()
+2023-05-04 11:45:34,105:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2023-05-04 11:49:05,093:INFO:Initializing load_model()
+2023-05-04 11:49:05,094:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2023-05-04 12:04:16,436:INFO:Initializing load_model()
+2023-05-04 12:04:16,436:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2023-05-04 12:05:13,686:INFO:Initializing load_model()
+2023-05-04 12:05:13,686:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2023-05-04 12:07:30,173:INFO:Initializing load_model()
+2023-05-04 12:07:30,174:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2023-05-04 12:08:40,865:INFO:Initializing load_model()
+2023-05-04 12:08:40,865:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
