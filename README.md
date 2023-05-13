@@ -1,14 +1,15 @@
 
 
-Flight Price Prediction
 The Flight Price Prediction project aims to forecast airline ticket prices using Machine Learning techniques. This repository contains the code for training a Random Forest Regression model that accurately predicts flight prices based on various parameters such as travel time, destination, and date.
 
-Key Features
+**Key Features**
+
 Incorporates a Random Forest Regression model with an R-squared value of 0.81, indicating highly optimal results.
 Predicts airline ticket prices with 95% accuracy using publicly-available information.
 Utilizes features like journey date, arrival and departure times, source and destination locations, and flight duration to create an accurate prediction model.
 
-Usage
+**Usage**
+
 To use the Flight Price Prediction app, follow these steps:
 
 Clone the repository to your local machine.
